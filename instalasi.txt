@@ -1,0 +1,8 @@
+Panduan Instalasi
+
+1. Download semua file dan tempatkan folder flip ke XAMPP/htdocs/
+2. Buka http://localhost/phpmyadmin melalui browser
+3. Buat database baru dengan nama "tes"
+4. Pada database tes, pilih menu import
+5. Pilih file "tes.sql", lalu jalankan import
+6. Sistem siap digunakan. Buka http://localhost/flip
